@@ -2,11 +2,11 @@
 
 # Disney
 
-**Web Developer @ [Kiubo Org](https://github.com/Disney-18)**
+**Web Developer @ [Kiubo Org](https://github.com/kiubo-org)**
 
 Desarrollando la plataforma web de **Kiubo** — mensajería multiplataforma en tiempo real.
 
-[![Kiubo Org](https://img.shields.io/badge/Kiubo_Org-Equipo_de_desarrollo-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Disney-18)
+[![Kiubo Org](https://img.shields.io/badge/Kiubo_Org-Equipo_de_desarrollo-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiubo-org)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Disney-18)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
@@ -16,7 +16,7 @@ Desarrollando la plataforma web de **Kiubo** — mensajería multiplataforma en 
 
 ## Sobre mí
 
-Formo parte del equipo de desarrollo de **[Kiubo Org](https://github.com/Disney-18)**, donde me encargo de la **capa web** del proyecto: desde la interfaz hasta la integración con el backend en tiempo real.
+Formo parte del equipo de desarrollo de **[Kiubo Org](https://github.com/kiubo-org)**, donde me encargo de la **capa web** del proyecto: desde la interfaz hasta la integración con el backend en tiempo real.
 
 Trabajo junto a otros desarrolladores especializados en **Android**, **iOS**, **Desktop** y **backend**, construyendo una plataforma de mensajería unificada y multiplataforma.
 
@@ -61,4 +61,4 @@ Trabajo junto a otros desarrolladores especializados en **Android**, **iOS**, **
 
 ### 🟠 Kiubo — Mensajería multiplataforma
 
-Ecosistema de **mensajería en tiempo real** desarrollado por un equipo distribuido. Cada miembro cubre una plataforma, y yo estoy a cargo de la **web**.
+Ecosistema de **mensajería en tiempo real** desarrollado por un equipo distribuido en [**github.com/kiubo-org**](https://github.com/kiubo-org). Cada miembro cubre una plataforma, y yo estoy a cargo de la **web**.
